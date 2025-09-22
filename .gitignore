@@ -2,3 +2,4 @@ venv/
 logs/
 MOVIE_RECOMMENDER.egg-info/
 .env
+Notes.txt
