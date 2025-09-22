@@ -1,0 +1,7 @@
+Langchain
+Chroma
+Groq
+HuggingFace
+Streamlit
+Docker
+Kubernetes
